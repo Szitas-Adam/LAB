@@ -1,4 +1,4 @@
-# LAB
+# LAB (alap)
 Tagok:
 Zsolt
 Márk
